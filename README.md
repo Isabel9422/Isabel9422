@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isabel9422)](https://github.com/isabel9422/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabel9422&layout=compact)](https://github.com/isabel9422/github-readme-stats)
 
 <!--
 **Isabel9422/Isabel9422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
