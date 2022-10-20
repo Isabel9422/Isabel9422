@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Isabel9422=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isabel9422)](https://github.com/isabel9422/github-readme-stats)
 
 <!--
 **Isabel9422/Isabel9422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
