@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Isabel</h1>
-<h3 align="center"><i>Looking for making a positive impact on the world.</i></h3>
-
 
 - 🌱 I’m currently learning **Angular**
 
