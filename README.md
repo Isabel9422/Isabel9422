@@ -4,6 +4,9 @@ Looking for making a positive impact on the world.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabel9422&layout=compact)](https://github.com/isabel9422/github-readme-stats)
 
+Connect with me:
+https://www.linkedin.com/in/isabel-se-ag/
+
 <!--
 **Isabel9422/Isabel9422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
