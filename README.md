@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Isabel</h1>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Android Studio**
 
-- 💬 Ask me about **Java, AdonisJs, Spring, Javascript and Typescript**
+- 💬 Ask me about **Java, Angular, Spring, Javascript and Typescript**
 
 - 📫 How to reach me **isabels94@hotmail.com**
 
